@@ -1,4 +1,4 @@
-FROM golang:1.16 as base
+FROM golang:latest as base
 
 FROM base as dev
 
